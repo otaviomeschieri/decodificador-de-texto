@@ -208,8 +208,12 @@ main {
 .informacao {
     position: absolute;
     font-size: 14px;
-    margin-top: 400px;
+    margin-top: 390px;
     margin-left: 30px;
+}
+
+.informacao-desenho {
+    height: 14px;
 }
 
 .dark-mode {

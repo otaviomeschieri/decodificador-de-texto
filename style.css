@@ -157,7 +157,7 @@ main {
     display: flex;
     flex-direction: row;
     align-items: left;
-    margin-top: 465px;
+    margin-top: 445px;
     margin-left: 50px;
     gap: 30px;
 }
